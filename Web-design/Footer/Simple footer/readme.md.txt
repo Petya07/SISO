@@ -1,0 +1,1 @@
+It's a simple footer for any web pages.
